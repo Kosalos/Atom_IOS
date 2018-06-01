@@ -13,6 +13,10 @@ Instead this app demonstrates calling C++ from Swift.
 The app also demonstrates the ArcBall algorithm, which makes rotations of 3D objects always
 work correctly when you pan the view.
 
+<a href="https://www.paypal.me/Kosalos/">
+  <img alt="Support via PayPal" src="https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg"/>
+</a>
+
 ![Screenshot](atomApp.png)
 
 
